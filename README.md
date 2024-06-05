@@ -6,7 +6,24 @@
 TODO
 
 ## Skills & Experience
-TODO
+### Education
+- 3 years computer science major in highschool (C# oop, Automatons and Android development using java), 3 years python course middle school (6 years total).
+- 3 years course - first semester C and networking (python), second semester C++ and assembly, third semester personal project (programming language interpreter).
+- 5 years self-taught - documentations, blogs, videos, books, etc.
+
+### Languages
+- Java - 5 years - Experienced
+- Rust - 6 months - Intermediate
+- Kotlin - 6 months - Intermediate
+- C/C++ - 3 years - Intermediate
+- C# - 3 years - Intermediate
+- Python - 6 years - Intermediate
+- x86 asm - 1 year - Beginner
+
+### Other
+- Spigot (Minecraft) - 5 years
+- Vim Motions - 6 months
+- Godot - 2 years
 
 ## Projects
 - [Trident](https://github.com/Kyren223/Trident) - an open source IntelliJ IDE plugin to improve navigation efficiency, inspired by the nvim plugin [Harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2).
@@ -25,14 +42,11 @@ TODO
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kyren223&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+## Fun Fact - Yaml stands for "Yet another markup language"
+
 <!--
 TODO maybe add this to the profile later on
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Kyren223&theme=tokyonight&layout=default&hide_progress=true&card_width=10&langs_count=4&hide=markdown,textmate,text" />
 </a>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 -->
