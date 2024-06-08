@@ -1,9 +1,9 @@
 ## 👋 About me
-Hey, I am Kyren, an 18yo passionate developer, mainly focused on Game Development and low-level programming.
-Some of my other interests include playing Video games, Chess, and solving Rubik's Cubes fast.
+Hey, I am Kyren, an 18yo passionate developer, mainly focused on Game Development and low-level programming.<br>
+Some of my other interests include playing video games, Chess, and solving Rubik's Cubes fast.<br>
 I use vim btw
 
-- 🔭 I’m currently working on [Krypton Language](https://github.com/Kyren223/Krypton)
+- 🔭 I’m currently working on [Krypton-lang](https://github.com/Kyren223/Krypton)
 
 - 🌱 I’m currently learning **Rust, Linux and how to write a Compiler**
 
@@ -12,6 +12,14 @@ I use vim btw
 - 💬 Ask me about **Rust, Compilers, Kotlin, Java and Minecraft plugin development**
 
 - 📫 How to reach me **Kyren223 on discord, or mail ulmliad223@gmail.com**
+
+## Projects
+- [Trident](https://github.com/Kyren223/Trident) - an open source IntelliJ IDE plugin to improve navigation efficiency, inspired by the nvim plugin [Harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2).
+- [Kapi](https://discord.gg/3vcQNZA8zC) - a Minecraft plugins framework which aim to turn Minecraft into a Game Engine by providing a wide range of utilities and functionality. examples include a Particle system, imrpoved Tasks, Math utilities, type-safe commands and more to come.
+- [Krypton](https://github.com/Kyren223/Krypton) (WIP) - a compiler written in Rust, for a language I called "Krypton", mostly for education purposes. The source code is being parsed and turned into into bytecode which is then executed by a virtual machine.
+
+## Goals
+TODO
 
 ## Skills & Experience
 ### Education
@@ -33,14 +41,6 @@ I use vim btw
 - Since 2019 - using Spigot, a Minecraft development library
 - Since January 2024 - Vim Motions
 - Since 2022 - using Godot, a game engine
-
-## Projects
-- [Trident](https://github.com/Kyren223/Trident) - an open source IntelliJ IDE plugin to improve navigation efficiency, inspired by the nvim plugin [Harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2).
-- [Kapi](https://discord.gg/3vcQNZA8zC) - a Minecraft plugins framework which aim to turn Minecraft into a Game Engine by providing a wide range of utilities and functionality. examples include a Particle system, imrpoved Tasks, Math utilities, type-safe commands and more to come.
-- [Krypton](https://github.com/Kyren223/Krypton) (WIP) - a compiler written in Rust, for a language I called "Krypton", mostly for education purposes. The source code is being parsed and turned into into bytecode which is then executed by a virtual machine.
-
-## Goals
-TODO
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
