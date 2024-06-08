@@ -1,15 +1,24 @@
-## Contact
-- Email: ulmliad223@gmail.com
-- Discord: Kyren223
+## 👋 About me
+Hey, I am Kyren, an 18yo passionate developer, mainly focused on Game Development and low-level programming.
+Some of my other interests include playing Video games, Chess, and solving Rubik's Cubes fast.
+I use vim btw
 
-## About me
-TODO
+- 🔭 I’m currently working on [Krypton Language](https://github.com/Kyren223/Krypton)
+
+- 🌱 I’m currently learning **Rust, Linux and how to write a Compiler**
+
+- 🤝 I’m looking for help with [Trident](https://github.com/Kyren223/Trident)
+
+- 💬 Ask me about **Rust, Compilers, Kotlin, Java and Minecraft plugin development**
+
+- 📫 How to reach me **Kyren223 on discord, or mail ulmliad223@gmail.com**
 
 ## Skills & Experience
 ### Education
-- 3 years computer science major in highschool (C# oop, Automatons and Android development using java), 3 years python course middle school (6 years total).
-- 3 years course - first semester C and networking (python), second semester C++ and assembly, third semester personal project (programming language interpreter).
-- 5 years self-taught - documentations, blogs, videos, books, etc.
+- 2018-2021 - python lessons in middle school (3 years)
+- 2021-2024 - CS major in highschool - C# oop, Automatons (DFA, Stack, Turing), and Android development using java (3 years). 
+- 2021-2024 - programming course - first semester C and networking (with python), second semester C++ and assembly, third semester personal project, I made a programming language interpreter.
+- 2019-2024 - self-taught gamedev - learned by making games and Minecraft plugins.
 
 ### Languages
 - Java - 5 years - Experienced
@@ -21,9 +30,9 @@ TODO
 - x86 asm - 1 year - Beginner
 
 ### Other
-- Spigot (Minecraft) - 5 years
-- Vim Motions - 6 months
-- Godot - 2 years
+- Since 2019 - using Spigot, a Minecraft development library
+- Since January 2024 - Vim Motions
+- Since 2022 - using Godot, a game engine
 
 ## Projects
 - [Trident](https://github.com/Kyren223/Trident) - an open source IntelliJ IDE plugin to improve navigation efficiency, inspired by the nvim plugin [Harpoon](https://github.com/ThePrimeagen/harpoon/tree/harpoon2).
