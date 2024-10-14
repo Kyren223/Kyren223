@@ -7,7 +7,6 @@
 - 🟢 NeoVim and Linux enthusiast
 - ✉️ You can contact me at [Kyren223@proton.me](mailto:Kyren223@proton.me) or Discord at Kyren223
 
-https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg
 ### Tech I'm passionate about
 <div style="display: flex;">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" /></a>
