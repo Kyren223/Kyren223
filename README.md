@@ -5,6 +5,10 @@
 - 🦀 I’m learning Rust and Go at the moment
 - 🔌 Minecraft Plugin Developer and Freelancer
 - 🟢 NeoVim and Linux enthusiast
+
+---
+
+- 🌐 Learn more about me or read my blogs at [kyren.codes](https://kyren.codes)
 - ✉️ You can contact me at [Kyren223@proton.me](mailto:Kyren223@proton.me) or Discord at Kyren223
 
 ### Tech I'm passionate about
